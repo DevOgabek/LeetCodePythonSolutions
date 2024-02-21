@@ -21,3 +21,4 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 - [Build Array from Permutation](Python/build_array_from_permutation.py)
 - [Number of Good Pairs](Python/number_of_good_pairs.py)
 - [Final Value of Variable After Performing Operations](Python/final_value_of_variable_after_performing_operations.py)
+- [Shuffle the Array](Python/shuffle_the_array.py)
