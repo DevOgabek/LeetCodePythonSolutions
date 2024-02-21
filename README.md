@@ -16,8 +16,4 @@ I'm dedicated to solving LeetCode problems using the Python programming language
 
 Feel free to explore the folders to find solutions to specific problems. Each Python script is thoroughly commented to explain the thought process and approach used to solve the problem.
 
-## Contributions
-
-While this repository primarily showcases my solutions, I welcome feedback and suggestions for improvement. If you have any insights or alternative solutions, please feel free to open an issue or create a pull request.
-
-Happy coding!
+## Solved Problems
