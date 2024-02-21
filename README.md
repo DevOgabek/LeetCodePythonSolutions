@@ -18,3 +18,4 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 
 ## Solved Problems
 - [Concatenation of Array](Python/concatenation_of_array.py)
+- [Build Array from Permutation](Python/build_array_from_permutation.py)
