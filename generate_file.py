@@ -7,12 +7,12 @@ def create_python_file(problem_name):
         file.write(f"""# {problem_name}
 
 class Solution(object):
-    def build_array(self, nums: list):
+    def build_array(self, nums):
         # Your solution here
         pass
 
 test = Solution()
-print(test.build_array([1, 2, 3, 4, 5]))""")
+print(test.build_array())""")
 
     print(f"File '{file_path}' has been created.")
     
