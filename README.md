@@ -47,3 +47,5 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 - [Count Number of Pairs With Absolute Difference K](Python/count_number_of_pairs_with_absolute_difference_k.py)
 - [Sum of All Odd Length Subarrays](Python/sum_of_all_odd_length_subarrays.py)
 - [Count the Number of Consistent Strings](Python/count_the_number_of_consistent_strings.py)
+- [Defanging an IP Address](Python/defanging_an_ip_address.py)
+- [Find All People With Secret](Python/find_all_people_with_secret.py)
