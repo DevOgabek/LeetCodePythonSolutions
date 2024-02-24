@@ -44,3 +44,6 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 - [Find First Palindromic String in the Array](Python/find_first_palindromic_string_in_the_array.py)
 - [Difference Between Element Sum and Digit Sum of an Array](Python/difference_between_element_sum_and_digit_sum_of_an_array.py)
 - [Number of Arithmetic Triplets](Python/number_of_arithmetic_triplets.py)
+- [Count Number of Pairs With Absolute Difference K](Python/count_number_of_pairs_with_absolute_difference_k.py)
+- [Sum of All Odd Length Subarrays](Python/sum_of_all_odd_length_subarrays.py)
+- [Count the Number of Consistent Strings](Python/count_the_number_of_consistent_strings.py)
