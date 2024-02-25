@@ -53,3 +53,7 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 - [Cheapest Flights Within K Stops](Python/cheapest_flights_within_k_stops.py)
 - [Find the Town Judge](Python/find_the_town_judge.py)
 - [Greatest Common Divisor Traversal](Python/greatest_common_divisor_traversal.py)
+- [Largest Local Values in a Matrix](Python/largest_local_values_in_a_matrix.py)
+- [Find the Highest Altitude](Python/find_the_highest_altitude.py)
+- [Check if a String Is an Acronym of Words](Python/check_if_a_string_is_an_acronym_of_words.py)
+- [Maximum Product Difference Between Two Pairs](Python/maximum_product_difference_between_two_pairs.py)
