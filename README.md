@@ -49,3 +49,7 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 - [Count the Number of Consistent Strings](Python/count_the_number_of_consistent_strings.py)
 - [Defanging an IP Address](Python/defanging_an_ip_address.py)
 - [Find All People With Secret](Python/find_all_people_with_secret.py)
+- [Jewels and Stones](Python/jewels_and_stones.py)
+- [Cheapest Flights Within K Stops](Python/cheapest_flights_within_k_stops.py)
+- [Find the Town Judge](Python/find_the_town_judge.py)
+- [Greatest Common Divisor Traversal](Python/greatest_common_divisor_traversal.py)
