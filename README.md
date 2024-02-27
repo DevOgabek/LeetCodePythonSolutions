@@ -57,3 +57,5 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 - [Find the Highest Altitude](Python/find_the_highest_altitude.py)
 - [Check if a String Is an Acronym of Words](Python/check_if_a_string_is_an_acronym_of_words.py)
 - [Maximum Product Difference Between Two Pairs](Python/maximum_product_difference_between_two_pairs.py)
+- [Diameter of Binary Tree](Python/diameter_of_binary_tree.py)
+- [Two Sum](Python/two_sum.py)
