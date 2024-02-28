@@ -63,3 +63,6 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 - [Sort the People](Python/sort_the_people.py)
 - [Palindrome Number](Python/palindrome_number.py)
 - [Matrix Diagonal Sum](Python/matrix_diagonal_sum.py)
+- [Same Tree](Python/same_tree.py)
+- [To Lower Case](Python/to_lower_case.py)
+- [Subarrays Distinct Element Sum of Squares I](Python/subarrays_distinct_element_sum_of_squares_i.py)
