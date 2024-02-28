@@ -61,3 +61,5 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 - [Two Sum](Python/two_sum.py)
 - [Find Bottom Left Tree Value](Python/find_bottom_left_tree_value.py)
 - [Sort the People](Python/sort_the_people.py)
+- [Palindrome Number](Python/palindrome_number.py)
+- [Matrix Diagonal Sum](Python/matrix_diagonal_sum.py)
