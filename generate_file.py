@@ -11,8 +11,8 @@ class Solution(object):
         # Your solution here
         pass
 
-test = Solution()
-print(test.build_array())""")
+solution = Solution()
+print(solution.build_array())""")
 
     print(f"File '{file_path}' has been created.")
     
