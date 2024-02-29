@@ -66,3 +66,7 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 - [Same Tree](Python/same_tree.py)
 - [To Lower Case](Python/to_lower_case.py)
 - [Subarrays Distinct Element Sum of Squares I](Python/subarrays_distinct_element_sum_of_squares_i.py)
+- [Sum of All Subset XOR Totals](Python/sum_of_all_subset_xor_totals.py)
+- [Even Odd Tree](Python/even_odd_tree.py)
+- [Count Good Triplets](Python/count_good_triplets.py)
+- [Flipping an Image](Python/flipping_an_image.py)
