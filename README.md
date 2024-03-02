@@ -70,3 +70,5 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 - [Even Odd Tree](Python/even_odd_tree.py)
 - [Count Good Triplets](Python/count_good_triplets.py)
 - [Flipping an Image](Python/flipping_an_image.py)
+- [Maximum Odd Binary Number](Python/maximum_odd_binary_number.py)
+- [Count Tested Devices After Test Operations](Python/count_tested_devices_after_test_operations.py)
