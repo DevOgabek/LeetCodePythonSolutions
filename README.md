@@ -16,6 +16,10 @@ I'm dedicated to solving LeetCode problems using the Python programming language
 
 Feel free to explore the folders to find solutions to specific problems. Each Python script is thoroughly commented to explain the thought process and approach used to solve the problem.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Solved Problems
 - [Concatenation of Array](Python/concatenation_of_array.py)
 - [Build Array from Permutation](Python/build_array_from_permutation.py)
