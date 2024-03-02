@@ -78,3 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Count Tested Devices After Test Operations](Python/count_tested_devices_after_test_operations.py)
 - [Squares of a Sorted Array](Python/squares_of_a_sorted_array.py)
 - [Maximum Product of Two Elements in an Array](Python/maximum_product_of_two_elements_in_an_array.py)
+- [Sum of Squares of Special Elements ](Python/sum_of_squares_of_special_elements_.py)
