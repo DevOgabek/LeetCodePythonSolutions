@@ -20,6 +20,9 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## My LeetCode stats
+[![DevOgabek's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=DevOgabek&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
 ## Solved Problems
 - [Concatenation of Array](Python/concatenation_of_array.py)
 - [Build Array from Permutation](Python/build_array_from_permutation.py)
@@ -82,3 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Count Equal and Divisible Pairs in an Array](Python/count_equal_and_divisible_pairs_in_an_array.py)
 - [Find Maximum Number of String Pairs](Python/find_maximum_number_of_string_pairs.py)
 - [Separate the Digits in an Array](Python/separate_the_digits_in_an_array.py)
+- [Roman to Integer](Python/roman_to_integer.py)
