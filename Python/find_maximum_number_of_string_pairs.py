@@ -6,9 +6,9 @@ class Solution(object):
         n = len(words)
         for i in range(n):
             for j in range(i+1, n):
-                if words[i][::-1] == words[j]:
+                if words[i] == words[j][::-1]:
                     count += 1
         return count
 
 solution = Solution()
-print(solution.build_array())
+print(solution.maximumNumberOfStringPairs())
