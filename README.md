@@ -77,3 +77,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Maximum Odd Binary Number](Python/maximum_odd_binary_number.py)
 - [Count Tested Devices After Test Operations](Python/count_tested_devices_after_test_operations.py)
 - [Squares of a Sorted Array](Python/squares_of_a_sorted_array.py)
+- [Sum of Squares of Special Elements ](Python/sum_of_squares_of_special_elements_.py)
+- [Remove Nth Node From End of List](Python/remove_nth_node_from_end_of_list.py)
+- [Count Equal and Divisible Pairs in an Array](Python/count_equal_and_divisible_pairs_in_an_array.py)
+- [Find Maximum Number of String Pairs](Python/find_maximum_number_of_string_pairs.py)
+- [Separate the Digits in an Array](Python/separate_the_digits_in_an_array.py)
