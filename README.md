@@ -21,7 +21,7 @@ Feel free to explore the folders to find solutions to specific problems. Each Py
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## My LeetCode stats
-[![DevOgabek's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=DevOgabek&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![DevOgabek's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=DevOgabek&theme=Dark)](https://leetcode.com/DevOgabek/)
 
 ## Solved Problems
 - [Concatenation of Array](Python/concatenation_of_array.py)
@@ -86,3 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Find Maximum Number of String Pairs](Python/find_maximum_number_of_string_pairs.py)
 - [Separate the Digits in an Array](Python/separate_the_digits_in_an_array.py)
 - [Roman to Integer](Python/roman_to_integer.py)
+- [DI String Match](Python/di_string_match.py)
+- [Find the Difference of Two Arrays](Python/find_the_difference_of_two_arrays.py)
+- [Find Maximum Number of String Pairs](Python/find_maximum_number_of_string_pairs.py)
+- [Array Partition](Python/array_partition.py)
