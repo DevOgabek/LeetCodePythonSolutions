@@ -90,3 +90,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Find the Difference of Two Arrays](Python/find_the_difference_of_two_arrays.py)
 - [Find Maximum Number of String Pairs](Python/find_maximum_number_of_string_pairs.py)
 - [Array Partition](Python/array_partition.py)
+- [Bag of Tokens](Python/bag_of_tokens.py)
+- [Goal Parser Interpretation](Python/goal_parser_interpretation.py)
+- [Maximum Sum With Exactly K Elements ](Python/maximum_sum_with_exactly_k_elements_.py)
+- [Remove Palindromic Subsequences](Python/remove_palindromic_subsequences.py)
+- [Design an Ordered Stream](Python/design_an_ordered_stream.py)
