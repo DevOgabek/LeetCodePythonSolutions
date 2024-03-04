@@ -5,4 +5,4 @@ class Solution(object):
         return 1 if s == s[::-1] else 2
 
 solution = Solution()
-print(solution.build_array())
+print(solution.removePalindromeSub("ababa"))
