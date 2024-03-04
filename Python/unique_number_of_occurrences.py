@@ -10,4 +10,4 @@ class Solution(object):
         return len(count.values()) == len(set(count.values()))
 
 solution = Solution()
-print(solution.build_array())
+print(solution.uniqueOccurrences([1,2,2,1,1,3]))
