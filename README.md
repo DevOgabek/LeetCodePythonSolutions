@@ -125,3 +125,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Minimum Operations to Make the Array Increasing](Python/minimum_operations_to_make_the_array_increasing.py)
 - [Replace All Digits with Characters](Python/replace_all_digits_with_characters.py)
 - [Sorting the Sentence](Python/sorting_the_sentence.py)
+- [Split a String in Balanced Strings](Python/split_a_string_in_balanced_strings.py)
