@@ -120,3 +120,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Points That Intersect With Cars](Python/points_that_intersect_with_cars.py)
 - [Baseball Game](Python/baseball_game.py)
 - [Minimum Length of String After Deleting Similar Ends](Python/minimum_length_of_string_after_deleting_similar_ends.py)
+- [Decode the Message](Python/decode_the_message.py)
+- [Find N Unique Integers Sum up to Zero](Python/find_n_unique_integers_sum_up_to_zero.py)
+- [Minimum Operations to Make the Array Increasing](Python/minimum_operations_to_make_the_array_increasing.py)
+- [Replace All Digits with Characters](Python/replace_all_digits_with_characters.py)
+- [Sorting the Sentence](Python/sorting_the_sentence.py)
