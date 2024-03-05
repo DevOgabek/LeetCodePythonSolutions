@@ -118,3 +118,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Number of Senior Citizens](Python/number_of_senior_citizens.py)
 - [Find Target Indices After Sorting Array](Python/find_target_indices_after_sorting_array.py)
 - [Points That Intersect With Cars](Python/points_that_intersect_with_cars.py)
+- [Baseball Game](Python/baseball_game.py)
+- [Minimum Length of String After Deleting Similar Ends](Python/minimum_length_of_string_after_deleting_similar_ends.py)
