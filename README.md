@@ -127,3 +127,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Sorting the Sentence](Python/sorting_the_sentence.py)
 - [Split a String in Balanced Strings](Python/split_a_string_in_balanced_strings.py)
 - [Number of Students Doing Homework at a Given Time](Python/number_of_students_doing_homework_at_a_given_time.py)
+- [Ant on the Boundary](Python/ant_on_the_boundary.py)
+- [Middle of the Linked List](Python/middle_of_the_linked_list.py)
+- [Split Strings by Separator](Python/split_strings_by_separator.py)
