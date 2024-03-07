@@ -126,3 +126,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Replace All Digits with Characters](Python/replace_all_digits_with_characters.py)
 - [Sorting the Sentence](Python/sorting_the_sentence.py)
 - [Split a String in Balanced Strings](Python/split_a_string_in_balanced_strings.py)
+- [Number of Students Doing Homework at a Given Time](Python/number_of_students_doing_homework_at_a_given_time.py)
