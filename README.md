@@ -130,3 +130,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Ant on the Boundary](Python/ant_on_the_boundary.py)
 - [Middle of the Linked List](Python/middle_of_the_linked_list.py)
 - [Split Strings by Separator](Python/split_strings_by_separator.py)
+- [Count Elements With Maximum Frequency](Python/count_elements_with_maximum_frequency.py)
+- [Maximum Strong Pair XOR I](Python/maximum_strong_pair_xor_i.py)
