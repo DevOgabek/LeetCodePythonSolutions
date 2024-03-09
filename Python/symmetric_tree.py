@@ -27,7 +27,7 @@ class Solution(object):
             queue.append(right_node.left)
         
         return True
-
+ 
 root = TreeNode(1)
 root.left = TreeNode(2)
 root.right = TreeNode(2)
