@@ -135,3 +135,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Minimum Common Value](Python/minimum_common_value.py)
 - [Letter Combinations of a Phone Number](Python/letter_combinations_of_a_phone_number.py)
 - [Generate Parentheses](Python/generate_parentheses.py)
+- [Symmetric Tree](Python/symmetric_tree.py)
+- [Combination Sum](Python/combination_sum.py)
+- [Longest Common Prefix](Python/longest_common_prefix.py)
