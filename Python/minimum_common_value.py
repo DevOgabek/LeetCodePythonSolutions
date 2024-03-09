@@ -5,7 +5,7 @@ class Solution(object):
         i = 0
         j = 0
         common = float('inf')
-
+        
         while i < len(nums1) and j < len(nums2):
             if nums1[i] == nums2[j]:
                 common = nums1[i]
