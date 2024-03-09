@@ -132,3 +132,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Split Strings by Separator](Python/split_strings_by_separator.py)
 - [Count Elements With Maximum Frequency](Python/count_elements_with_maximum_frequency.py)
 - [Maximum Strong Pair XOR I](Python/maximum_strong_pair_xor_i.py)
+- [Minimum Common Value](Python/minimum_common_value.py)
+- [Letter Combinations of a Phone Number](Python/letter_combinations_of_a_phone_number.py)
+- [Generate Parentheses](Python/generate_parentheses.py)
