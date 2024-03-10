@@ -139,3 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Combination Sum](Python/combination_sum.py)
 - [Longest Common Prefix](Python/longest_common_prefix.py)
 - [Intersection of Two Arrays](Python/intersection_of_two_arrays.py)
+- [Permutations](Python/permutations.py)
+- [Merge Similar Items](Python/merge_similar_items.py)
+- [Maximum Number of Pairs in Array](Python/maximum_number_of_pairs_in_array.py)
+- [Maximum Units on a Truck](Python/maximum_units_on_a_truck.py)
