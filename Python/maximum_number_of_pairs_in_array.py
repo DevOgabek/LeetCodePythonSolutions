@@ -4,11 +4,11 @@ from collections import Counter
 
 class Solution(object):
     def numberOfPairs(self, nums):
-        num_counts = Counter(nums)
+        nums_counts = Counter(nums)
         leftover_count = 0
         formed_count = 0
         
-        for count in num_counts.values():
+        for count in nums_counts.values():
             if count % 2 != 0:
                 leftover_count += 1
             formed_count += count // 2
