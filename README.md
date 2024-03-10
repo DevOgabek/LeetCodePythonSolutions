@@ -138,3 +138,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Symmetric Tree](Python/symmetric_tree.py)
 - [Combination Sum](Python/combination_sum.py)
 - [Longest Common Prefix](Python/longest_common_prefix.py)
+- [Intersection of Two Arrays](Python/intersection_of_two_arrays.py)
