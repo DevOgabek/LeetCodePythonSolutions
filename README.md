@@ -143,3 +143,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Merge Similar Items](Python/merge_similar_items.py)
 - [Maximum Number of Pairs in Array](Python/maximum_number_of_pairs_in_array.py)
 - [Maximum Units on a Truck](Python/maximum_units_on_a_truck.py)
+- [Merge Sorted Array](Python/merge_sorted_array.py)
+- [Best Time to Buy and Sell Stock](Python/best_time_to_buy_and_sell_stock.py)
