@@ -24,6 +24,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![DevOgabek's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=DevOgabek&theme=Dark)](https://leetcode.com/DevOgabek/)
 
 ## Solved Problems
+
 - [Concatenation of Array](Python/concatenation_of_array.py)
 - [Build Array from Permutation](Python/build_array_from_permutation.py)
 - [Number of Good Pairs](Python/number_of_good_pairs.py)
@@ -145,3 +146,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Maximum Units on a Truck](Python/maximum_units_on_a_truck.py)
 - [Merge Sorted Array](Python/merge_sorted_array.py)
 - [Best Time to Buy and Sell Stock](Python/best_time_to_buy_and_sell_stock.py)
+- [Majority Element](Python/majority_element.py)
