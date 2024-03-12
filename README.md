@@ -153,3 +153,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Subsets](Python/subsets.py)
 - [Binary Tree Inorder Traversal](Python/binary_tree_inorder_traversal.py)
 - [Single Number](Python/single_number.py)
+- [Move Zeroes](Python/move_zeroes.py)
