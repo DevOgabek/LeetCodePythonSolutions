@@ -41,4 +41,3 @@ result = solution.removeZeroSumSublists(head)
 while result:
     print(result.val, end=" -> ")
     result = result.next
-print("None")
