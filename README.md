@@ -148,3 +148,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Best Time to Buy and Sell Stock](Python/best_time_to_buy_and_sell_stock.py)
 - [Majority Element](Python/majority_element.py)
 - [Transpose Matrix](Python/transpose_matrix.py)
+- [Remove Zero Sum Consecutive Nodes from Linked List](Python/remove_zero_sum_consecutive_nodes_from_linked_list.py)
