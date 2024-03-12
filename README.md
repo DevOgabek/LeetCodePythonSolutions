@@ -152,3 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [N-Queens](Python/n-queens.py)
 - [Subsets](Python/subsets.py)
 - [Binary Tree Inorder Traversal](Python/binary_tree_inorder_traversal.py)
+- [Single Number](Python/single_number.py)
