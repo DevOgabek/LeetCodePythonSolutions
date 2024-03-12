@@ -149,3 +149,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Majority Element](Python/majority_element.py)
 - [Transpose Matrix](Python/transpose_matrix.py)
 - [Remove Zero Sum Consecutive Nodes from Linked List](Python/remove_zero_sum_consecutive_nodes_from_linked_list.py)
+- [N-Queens](Python/n-queens.py)
+- [Subsets](Python/subsets.py)
+- [Binary Tree Inorder Traversal](Python/binary_tree_inorder_traversal.py)
