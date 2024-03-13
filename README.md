@@ -155,3 +155,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Single Number](Python/single_number.py)
 - [Move Zeroes](Python/move_zeroes.py)
 - [Convert Sorted Array to Binary Search Tree](Python/convert_sorted_array_to_binary_search_tree.py)
+- [Pascal's Triangle](Python/pascals_triangle.py)
