@@ -157,3 +157,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Convert Sorted Array to Binary Search Tree](Python/convert_sorted_array_to_binary_search_tree.py)
 - [Pascal's Triangle](Python/pascals_triangle.py)
 - [Find the Pivot Integer](Python/find_the_pivot_integer.py)
+- [Find the Index of the First Occurrence in a String](Python/find_the_index_of_the_first_occurrence_in_a_string.py)
