@@ -156,3 +156,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Move Zeroes](Python/move_zeroes.py)
 - [Convert Sorted Array to Binary Search Tree](Python/convert_sorted_array_to_binary_search_tree.py)
 - [Pascal's Triangle](Python/pascals_triangle.py)
+- [Find the Pivot Integer](Python/find_the_pivot_integer.py)
