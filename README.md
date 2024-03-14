@@ -161,3 +161,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Binary Subarrays With Sum](Python/binary_subarrays_with_sum.py)
 - [Valid Palindrome](Python/valid_palindrome.py)
 - [Is Subsequence](Python/is_subsequence.py)
+- [Climbing Stairs](Python/climbing_stairs.py)
+- [Reverse Linked List](Python/reverse_linked_list.py)
+- [Merge Two Sorted Lists](Python/merge_two_sorted_lists.py)
