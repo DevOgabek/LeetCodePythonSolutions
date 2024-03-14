@@ -165,3 +165,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Reverse Linked List](Python/reverse_linked_list.py)
 - [Merge Two Sorted Lists](Python/merge_two_sorted_lists.py)
 - [Modify the Matrix](Python/modify_the_matrix.py)
+- [Next Greater Element I](Python/next_greater_element_i.py)
