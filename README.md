@@ -160,4 +160,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Find the Index of the First Occurrence in a String](Python/find_the_index_of_the_first_occurrence_in_a_string.py)
 - [Binary Subarrays With Sum](Python/binary_subarrays_with_sum.py)
 - [Valid Palindrome](Python/valid_palindrome.py)
-- [Is Subsequence](Python/is_subsequence.py)
+- [Is Subsequence](Python/is_subsequence.py) 
