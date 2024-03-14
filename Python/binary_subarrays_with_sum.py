@@ -15,4 +15,4 @@ class Solution(object):
         return total_subarrays
     
 solution = Solution()
-print(solution.numSubarraysWithSum())
+print(solution.numSubarraysWithSum([1,0,1,0,1], 2))
