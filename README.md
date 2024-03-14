@@ -158,3 +158,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Pascal's Triangle](Python/pascals_triangle.py)
 - [Find the Pivot Integer](Python/find_the_pivot_integer.py)
 - [Find the Index of the First Occurrence in a String](Python/find_the_index_of_the_first_occurrence_in_a_string.py)
+- [Binary Subarrays With Sum](Python/binary_subarrays_with_sum.py)
