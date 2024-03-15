@@ -166,3 +166,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Merge Two Sorted Lists](Python/merge_two_sorted_lists.py)
 - [Modify the Matrix](Python/modify_the_matrix.py)
 - [Next Greater Element I](Python/next_greater_element_i.py)
+- [Binary Subarrays With Sumvv](Python/binary_subarrays_with_sumvv.py)
