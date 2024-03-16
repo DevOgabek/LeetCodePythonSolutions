@@ -169,3 +169,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Binary Subarrays With Sumvv](Python/binary_subarrays_with_sumvv.py)
 - [Maximum Depth of Binary Tree](Python/maximum_depth_of_binary_tree.py)
 - [Product of Array Except Self](Python/product_of_array_except_self.py)
+- [Contiguous Array](Python/contiguous_array.py)
