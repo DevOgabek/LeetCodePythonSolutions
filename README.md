@@ -172,3 +172,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Contiguous Array](Python/contiguous_array.py)
 - [Destination City](Python/destination_city.py)
 - [Split Strings by Separator](Python/split_strings_by_separator.py)
+- [Make Array Zero by Subtracting Equal Amounts](Python/make_array_zero_by_subtracting_equal_amounts.py)
