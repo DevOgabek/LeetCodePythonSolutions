@@ -2,7 +2,7 @@
 
 class Solution(object):
     def splitWordsBySeparator(self, words, separator):
-        return [substring for word in words for substring in word.split(separator) if substring]
-
+        return [char for word in words for char in word.split(separator) if char]
+    
 solution = Solution()
-print(solution.splitWordsBySeparator(["$easy$","$problem$"], "$"))
+print(solution.splitWordsBySeparator(["one.two.three","four.five","six"], '.'))
