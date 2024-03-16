@@ -171,3 +171,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Product of Array Except Self](Python/product_of_array_except_self.py)
 - [Contiguous Array](Python/contiguous_array.py)
 - [Destination City](Python/destination_city.py)
+- [Split Strings by Separator](Python/split_strings_by_separator.py)
