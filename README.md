@@ -173,3 +173,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Destination City](Python/destination_city.py)
 - [Split Strings by Separator](Python/split_strings_by_separator.py)
 - [Make Array Zero by Subtracting Equal Amounts](Python/make_array_zero_by_subtracting_equal_amounts.py)
+- [Most Common Word](Python/most_common_word.py)
