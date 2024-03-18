@@ -1,3 +1,5 @@
+<img src="img/repo_icon.png">
+
 # LeetCode Python Solutions
 
 Welcome to my LeetCode Python Solutions repository! Here, you'll find my solutions to various LeetCode problems implemented in Python.
@@ -174,3 +176,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Split Strings by Separator](Python/split_strings_by_separator.py)
 - [Make Array Zero by Subtracting Equal Amounts](Python/make_array_zero_by_subtracting_equal_amounts.py)
 - [Most Common Word](Python/most_common_word.py)
+- [Insert Interval](Python/insert_interval.py)
+- [Valid Anagram](Python/valid_anagram.py)
