@@ -186,3 +186,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Check if All Characters Have Equal Number of Occurrences](Python/check_if_all_characters_have_equal_number_of_occurrences.py)
 - [Find the Distinct Difference Array](Python/find_the_distinct_difference_array.py)
 - [First Letter to Appear Twice](Python/first_letter_to_appear_twice.py)
+- [Ransom Note](Python/ransom_note.py)
