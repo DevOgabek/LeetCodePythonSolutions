@@ -6,4 +6,4 @@ class Solution(object):
         return count * (count + 1) // 2
     
 solution = Solution()
-print(solution.countSubstrings())
+print(solution.countSubstrings("abada", "a"))
