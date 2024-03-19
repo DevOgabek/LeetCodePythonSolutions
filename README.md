@@ -184,3 +184,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Rings and Rods](Python/rings_and_rods.py)
 - [Two Out of Three](Python/two_out_of_three.py)
 - [Check if All Characters Have Equal Number of Occurrences](Python/check_if_all_characters_have_equal_number_of_occurrences.py)
+- [Find the Distinct Difference Array](Python/find_the_distinct_difference_array.py)
