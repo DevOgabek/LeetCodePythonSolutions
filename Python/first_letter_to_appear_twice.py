@@ -10,6 +10,6 @@ class Solution(object):
             hash_set.add(char)
 
         return char
-     
+    
 solution = Solution()
 print(solution.repeatedCharacter("abccbaacz"))
