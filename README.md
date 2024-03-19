@@ -179,3 +179,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Insert Interval](Python/insert_interval.py)
 - [Valid Anagram](Python/valid_anagram.py)
 - [Word Search](Python/word_search.py)
+- [Number of Students Unable to Eat Lunch](Python/number_of_students_unable_to_eat_lunch.py)
