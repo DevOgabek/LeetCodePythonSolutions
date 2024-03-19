@@ -188,3 +188,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [First Letter to Appear Twice](Python/first_letter_to_appear_twice.py)
 - [Ransom Note](Python/ransom_note.py)
 - [Contains Duplicate II](Python/contains_duplicate_ii.py)
+- [Existence of a Substring in a String and Its Reverse](Python/existence_of_a_substring_in_a_string_and_its_reverse.py)
