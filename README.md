@@ -181,3 +181,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Word Search](Python/word_search.py)
 - [Number of Students Unable to Eat Lunch](Python/number_of_students_unable_to_eat_lunch.py)
 - [Check if the Sentence Is Pangram](Python/check_if_the_sentence_is_pangram.py)
+- [Rings and Rods](Python/rings_and_rods.py)
