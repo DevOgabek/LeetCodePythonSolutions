@@ -187,3 +187,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Find the Distinct Difference Array](Python/find_the_distinct_difference_array.py)
 - [First Letter to Appear Twice](Python/first_letter_to_appear_twice.py)
 - [Ransom Note](Python/ransom_note.py)
+- [Contains Duplicate II](Python/contains_duplicate_ii.py)
