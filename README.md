@@ -178,3 +178,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Most Common Word](Python/most_common_word.py)
 - [Insert Interval](Python/insert_interval.py)
 - [Valid Anagram](Python/valid_anagram.py)
+- [Word Search](Python/word_search.py)
