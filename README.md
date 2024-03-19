@@ -190,3 +190,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Contains Duplicate II](Python/contains_duplicate_ii.py)
 - [Existence of a Substring in a String and Its Reverse](Python/existence_of_a_substring_in_a_string_and_its_reverse.py)
 - [Count Substrings Starting and Ending with Given Character](Python/count_substrings_starting_and_ending_with_given_character.py)
+- [Minimum Deletions to Make String K-Special](Python/minimum_deletions_to_make_string_k-special.py)
