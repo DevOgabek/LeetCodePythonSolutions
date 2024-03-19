@@ -183,3 +183,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Check if the Sentence Is Pangram](Python/check_if_the_sentence_is_pangram.py)
 - [Rings and Rods](Python/rings_and_rods.py)
 - [Two Out of Three](Python/two_out_of_three.py)
+- [Check if All Characters Have Equal Number of Occurrences](Python/check_if_all_characters_have_equal_number_of_occurrences.py)
