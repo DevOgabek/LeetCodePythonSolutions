@@ -192,3 +192,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Count Substrings Starting and Ending with Given Character](Python/count_substrings_starting_and_ending_with_given_character.py)
 - [Minimum Deletions to Make String K-Special](Python/minimum_deletions_to_make_string_k-special.py)
 - [Merge In Between Linked Lists](Python/merge_in_between_linked_lists.py)
+- [Find Missing and Repeated Values](Python/find_missing_and_repeated_values.py)
