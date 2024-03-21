@@ -211,3 +211,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Maximum Number of Balls in a Box](Python/maximum_number_of_balls_in_a_box.py)
 - [Check if Number Has Equal Digit Count and Digit Value](Python/check_if_number_has_equal_digit_count_and_digit_value.py)
 - [Maximum Number of Words You Can Type](Python/maximum_number_of_words_you_can_type.py)
+- [Kth Distinct String in an Array](Python/kth_distinct_string_in_an_array.py)
