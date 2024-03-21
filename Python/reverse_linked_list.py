@@ -7,17 +7,18 @@ class ListNode:
 
 class Solution(object):
     def reverseList(self, head):
-        new_list = None
-        current = head
+        prev_node = None
+        current_node = head
 
-        while current:
-            next_node = current.next
-            current.next = new_list
-            new_list = current
-            current = next_node
-        
-        return new_list
+        while current_node is not None:
+            next_node = current_node.next
+            current_node.next = prev_node
+            prev_node = current_node
+            current_node = next_node
 
+        return prev_node
+
+# Create a linked list: 1 -> 2 -> 3 -> 4 -> 5
 head = ListNode(1)
 head.next = ListNode(2)
 head.next.next = ListNode(3)
@@ -25,9 +26,8 @@ head.next.next.next = ListNode(4)
 head.next.next.next.next = ListNode(5)
 
 solution = Solution()
+reversed_head = solution.reverseList(head)
 
-reversed_list = solution.reverseList(head)
-
-while reversed_list:
-    print(reversed_list.val, end=" ")
-    reversed_list = reversed_list.next
+while reversed_head is not None:
+    print(reversed_head.val, end=" ")
+    reversed_head = reversed_head.next
