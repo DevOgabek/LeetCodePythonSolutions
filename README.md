@@ -164,7 +164,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Valid Palindrome](Python/valid_palindrome.py)
 - [Is Subsequence](Python/is_subsequence.py)
 - [Climbing Stairs](Python/climbing_stairs.py)
-- [Reverse Linked List](Python/reverse_linked_list.py)
 - [Merge Two Sorted Lists](Python/merge_two_sorted_lists.py)
 - [Modify the Matrix](Python/modify_the_matrix.py)
 - [Next Greater Element I](Python/next_greater_element_i.py)
@@ -203,3 +202,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Merge Two 2D Arrays by Summing Values](Python/merge_two_2d_arrays_by_summing_values.py)
 - [Smallest Index With Equal Value](Python/smallest_index_with_equal_value.py)
 - [Number of Unequal Triplets in Array](Python/number_of_unequal_triplets_in_array.py)
+- [Reverse Linked List](Python/reverse_linked_list.py)
