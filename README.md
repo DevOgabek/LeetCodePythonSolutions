@@ -197,3 +197,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Cells in a Range on an Excel Sheet](Python/cells_in_a_range_on_an_excel_sheet.py)
 - [Row With Maximum Ones](Python/row_with_maximum_ones.py)
 - [Find the K-or of an Array](Python/find_the_k-or_of_an_array.py)
+- [Count Prefixes of a Given String](Python/count_prefixes_of_a_given_string.py)
