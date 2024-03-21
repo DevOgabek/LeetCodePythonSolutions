@@ -200,3 +200,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Count Prefixes of a Given String](Python/count_prefixes_of_a_given_string.py)
 - [Find Champion I](Python/find_champion_i.py)
 - [Find Champion I](Python/find_champion_i.py)
+- [Merge Two 2D Arrays by Summing Values](Python/merge_two_2d_arrays_by_summing_values.py)
