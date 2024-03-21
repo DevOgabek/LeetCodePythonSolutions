@@ -208,3 +208,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Distribute Candies](Python/distribute_candies.py)
 - [Minimize String Length](Python/minimize_string_length.py)
 - [Divide Array Into Equal Pairs](Python/divide_array_into_equal_pairs.py)
+- [Maximum Number of Balls in a Box](Python/maximum_number_of_balls_in_a_box.py)
