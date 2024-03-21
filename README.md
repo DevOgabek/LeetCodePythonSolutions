@@ -201,3 +201,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Find Champion I](Python/find_champion_i.py)
 - [Find Champion I](Python/find_champion_i.py)
 - [Merge Two 2D Arrays by Summing Values](Python/merge_two_2d_arrays_by_summing_values.py)
+- [Smallest Index With Equal Value](Python/smallest_index_with_equal_value.py)
