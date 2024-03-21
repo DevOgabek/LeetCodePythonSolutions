@@ -205,3 +205,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Reverse Linked List](Python/reverse_linked_list.py)
 - [Split the Array](Python/split_the_array.py)
 - [Find Pivot Index](Python/find_pivot_index.py)
+- [Plus One](Python/plus_one.py)
