@@ -198,7 +198,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Find the K-or of an Array](Python/find_the_k-or_of_an_array.py)
 - [Count Prefixes of a Given String](Python/count_prefixes_of_a_given_string.py)
 - [Find Champion I](Python/find_champion_i.py)
-- [Find Champion I](Python/find_champion_i.py)
 - [Merge Two 2D Arrays by Summing Values](Python/merge_two_2d_arrays_by_summing_values.py)
 - [Smallest Index With Equal Value](Python/smallest_index_with_equal_value.py)
 - [Number of Unequal Triplets in Array](Python/number_of_unequal_triplets_in_array.py)
@@ -208,3 +207,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Plus One](Python/plus_one.py)
 - [Distribute Candies](Python/distribute_candies.py)
 - [Minimize String Length](Python/minimize_string_length.py)
+- [Divide Array Into Equal Pairs](Python/divide_array_into_equal_pairs.py)
