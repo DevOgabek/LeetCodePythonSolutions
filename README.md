@@ -203,3 +203,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Smallest Index With Equal Value](Python/smallest_index_with_equal_value.py)
 - [Number of Unequal Triplets in Array](Python/number_of_unequal_triplets_in_array.py)
 - [Reverse Linked List](Python/reverse_linked_list.py)
+- [Split the Array](Python/split_the_array.py)
