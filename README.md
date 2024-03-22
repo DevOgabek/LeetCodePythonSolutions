@@ -213,3 +213,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Maximum Number of Words You Can Type](Python/maximum_number_of_words_you_can_type.py)
 - [Kth Distinct String in an Array](Python/kth_distinct_string_in_an_array.py)
 - [Top K Frequent Elements](Python/top_k_frequent_elements.py)
+- [Longest Palindromic Substring](Python/longest_palindromic_substring.py)
