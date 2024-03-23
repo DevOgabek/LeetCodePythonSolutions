@@ -215,3 +215,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Top K Frequent Elements](Python/top_k_frequent_elements.py)
 - [Longest Palindromic Substring](Python/longest_palindromic_substring.py)
 - [Minimum Sum of Four Digit Number After Splitting Digits](Python/minimum_sum_of_four_digit_number_after_splitting_digits.py)
+- [Maximum 69 Number](Python/maximum_69_number.py)
