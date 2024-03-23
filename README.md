@@ -217,3 +217,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Minimum Sum of Four Digit Number After Splitting Digits](Python/minimum_sum_of_four_digit_number_after_splitting_digits.py)
 - [Maximum 69 Number](Python/maximum_69_number.py)
 - [Lexicographically Smallest Palindrome](Python/lexicographically_smallest_palindrome.py)
+- [Maximum Units on a Truck](Python/maximum_units_on_a_truck.py)
