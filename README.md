@@ -219,3 +219,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Lexicographically Smallest Palindrome](Python/lexicographically_smallest_palindrome.py)
 - [Maximum Units on a Truck](Python/maximum_units_on_a_truck.py)
 - [Longest Common Suffix Queries](Python/longest_common_suffix_queries.py)
+- [Most Frequent IDs](Python/most_frequent_ids.py)
+- [Apply Operations to Make Sum of Array Greater Than or Equal to k](Python/apply_operations_to_make_sum_of_array_greater_than_or_equal_to_k.py)
