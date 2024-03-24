@@ -218,3 +218,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Maximum 69 Number](Python/maximum_69_number.py)
 - [Lexicographically Smallest Palindrome](Python/lexicographically_smallest_palindrome.py)
 - [Maximum Units on a Truck](Python/maximum_units_on_a_truck.py)
+- [Longest Common Suffix Queries](Python/longest_common_suffix_queries.py)
