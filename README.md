@@ -222,3 +222,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Most Frequent IDs](Python/most_frequent_ids.py)
 - [Apply Operations to Make Sum of Array Greater Than or Equal to k](Python/apply_operations_to_make_sum_of_array_greater_than_or_equal_to_k.py)
 - [Maximum Length Substring With Two Occurrences](Python/maximum_length_substring_with_two_occurrences.py)
+- [Find the Duplicate Number](Python/find_the_duplicate_number.py)
