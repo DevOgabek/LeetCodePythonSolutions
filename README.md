@@ -224,3 +224,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Maximum Length Substring With Two Occurrences](Python/maximum_length_substring_with_two_occurrences.py)
 - [Find the Duplicate Number](Python/find_the_duplicate_number.py)
 - [Buy Two Chocolates](Python/buy_two_chocolates.py)
+- [First Missing Positive](Python/first_missing_positive.py)
