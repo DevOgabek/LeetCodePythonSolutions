@@ -228,3 +228,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Subarray Product Less Than K](Python/subarray_product_less_than_k.py)
 - [Valid Parentheses](Python/valid_parentheses.py)
 - [Remove Element](Python/remove_element.py)
+- [Remove Duplicates from Sorted Array](Python/remove_duplicates_from_sorted_array.py)
